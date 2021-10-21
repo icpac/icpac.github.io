@@ -1,9 +1,10 @@
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: large;
+    font-size: 30px;
     color: blue;
 }
-/*
-.intro {
-    background-color: yellow;
-}*/
+
+p.main{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
