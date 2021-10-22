@@ -1,10 +1,15 @@
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
     color: blue;
+    font-size:xx-large
 }
 
 p.main{
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
+    color:darkblue;
+}
+
+p.pie{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
